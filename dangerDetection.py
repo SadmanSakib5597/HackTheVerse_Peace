@@ -94,9 +94,10 @@ for row in dataset:
 
 model = summarize_by_classvalue(dataset)
 
-row=[100.9,116,96,96,145]
+# row=[99.6,87,99,80,120]----------- sample data for non danger
 
-# row=[99.6,76,75,54,139]
+
+# row=[99.6,76,75,54,139]----------- sample data for danger
 
 # row=[100.7,77,63,105,177]
 
